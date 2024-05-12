@@ -1,0 +1,6 @@
+9
+H 0
+CPHASE 0 5 0.3
+P 1 0.3
+CNOT 4 7
+SWAP 2 8
